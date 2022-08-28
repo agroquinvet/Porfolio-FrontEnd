@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.profileimage{
+    border-radius: 50%;
+    width: 150PX;
+    height: 150PX;
+    margin-top: -60PX;
+    margin-left: 100px;
+    z-index: 1;
+    position: absolute;
+    
+    
+    
+}
+
+#info-data{
+    width:30%;
+    font-size: 60%;
+    text-align: center;
+    margin-top: 8%;
+    margin-left: 50px;
+    display: flex;
+    align-items: flex-start;
+    
+}
+
+.resumen{
+    position: absolute;    
+    float: right;
+    left: 40%;
+    margin-top: 0px;
+    
+   }
+.tituloR{
+    margin-top: 25px;
+    width: 300px;
+    height: 30px;
+    text-align: left;
+    border-radius: 0px 7px 0px 7px;
+    background-color: black;
+    color: white;
+    font-size: 60%;
+
+}
+
+.descripcionR{
+    margin-top: 10px;
+    width: 600px;
+    text-align: justify;    
+    font-size: 15px;
+}
+
+.lineaDiv{
+    margin-left: 2.5%;
+    width: 95%;
+    background-color: pink;
+    height: 12px;
+
+}
+
+.tituloE{
+    margin-top: 25px;
+    margin-left: 15px;
+    width: 300px;
+    height: 30px;
+    text-align: left;
+    border-radius: 0px 7px 0px 7px;
+    background-color: black;
+    color: white;
+    font-size: 60%;
+}
+
+#experiencia1{
+    position: absolute;
+}
+
+.divisor{
+    width: 100%;
+    position: absolute;
+    
+    
+}
+
+.logo{
+    margin-top: 40px;
+    margin-left: 100px;
+    width: 150px;
+    height: 130px;
+    
+}
+
+.descripcionE{
+    
+    width: 600px;  
+    position: absolute;
+    left: 500px;
+    margin-left: 60%;
+    margin-top: 25px;
+}
+
+.todosTitulosh2{
+    width: 50%;
+    text-align: left;
+    border-radius: 0px 7px 0px 7px;
+    border-color: blue;
+    background-color:grey ;
+    color:black;
+    font-size: 15px;
+}
+
+.parrafo{
+    margin-top: 10px;
+    text-align: justify;
+    font-size: 15px;
+}
